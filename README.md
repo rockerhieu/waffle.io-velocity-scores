@@ -1,7 +1,7 @@
 Velocity Scores for waffle.io
 =========================
 
-A chrome extension of Velocity Scores for [waffle.io](https://waffle.io), ported from https://gist.github.com/jhubert/8eec558ab8cea9fd4aaa
+A chrome extension of Velocity Scores for [waffle.io](https://waffle.io), ported from https://gist.github.com/jhubert/8eec558ab8cea9fd4aaa which renders velocity scores based on the content of the GitHub issue title.
 
 ## Download
 Check out all the versions in the [release page](https://github.com/rockerhieu/waffle.io-velocity-scores/releases)
