@@ -1,0 +1,20 @@
+{
+  "manifest_version": 2,
+  "name": "Waffle Velocity Scores",
+  "description": "This is a simple set of JS and CSS that renders velocity scores based on the content of the GitHub issue title.",
+  "version": "1.0",
+  "icons": { "128": "images/icon.png" },
+  "permissions": [
+    "https://waffle.io/*",
+    "http://waffle.io/*"
+  ],
+  "content_scripts": [ {
+      "css": [ "css/style.css" ],
+      "js": [ "js/jquery-1.9.1.min.js", "js/content.js" ],
+      "matches": [
+        "https://waffle.io/*",
+        "http://waffle.io/*"
+      ],
+      "run_at": "document_start"
+    } ]
+}

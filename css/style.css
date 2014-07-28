@@ -1,0 +1,2 @@
+.board .card .card-body .footer .score { position: absolute; right: 20px; bottom: 4px; color: #fff; font-size: 14px; padding: 0 5px; background-color: #62B4F8; border-radius: 3px; }
+.board .board-body .column-ct .column .column-header .total-score { color: #fff; margin-left: 10px;  padding: 0 5px; background-color: #62B4F8; border-radius: 3px; vertical-align: top; line-height: 30px;  display: inline-block; margin-top: 5px; height: 28px; }
