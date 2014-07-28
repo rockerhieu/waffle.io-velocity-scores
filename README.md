@@ -3,12 +3,13 @@ Velocity Scores for waffle.io
 
 A chrome extension of Velocity Scores for [waffle.io](https://waffle.io), ported from https://gist.github.com/jhubert/8eec558ab8cea9fd4aaa
 
-## Screenshot
+## Download
+Check out all the versions in the [release page](https://github.com/rockerhieu/waffle.io-velocity-scores/releases)
 
+## Screenshot
 ![Screenshot](https://camo.githubusercontent.com/f238f318624ce9b0392b24fc0888e112d1758aff/68747470733a2f2f646c2e64726f70626f7875736572636f6e74656e742e636f6d2f752f373030303933342f776166666c652d76656c6f636974792e706e67)
 
 ## License
-
 ```
         DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE 
                     Version 2, August 2014 
