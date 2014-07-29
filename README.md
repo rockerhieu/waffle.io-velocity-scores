@@ -4,6 +4,9 @@ Velocity Scores for waffle.io
 A chrome extension of Velocity Scores for [waffle.io](https://waffle.io), ported from https://gist.github.com/jhubert/8eec558ab8cea9fd4aaa which renders velocity scores based on the content of the GitHub issue title.
 
 ## Installation
+[![Chrome Webstore](https://developer.chrome.com/webstore/images/ChromeWebStore_BadgeWBorder_v2_206x58.png)](https://chrome.google.com/webstore/detail/waffle-velocity-scores/pffhdclphfnbdcdglcclnnlcjnofjggp)
+
+#### Or from crx file
 * Download the `*.crx` file in [release page](https://github.com/rockerhieu/waffle.io-velocity-scores/releases). After the file is downloaded, you will see a warning `Apps, extensions, and user scripts cannot be added from this website`, ignore it.
 * Open a new Chrome tab, navigate to `chrome://extensions/`.
 * Drag and drop the downloaded `*.crx` file into the above Chrome tab to install.
